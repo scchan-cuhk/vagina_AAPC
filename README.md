@@ -1,6 +1,6 @@
 # vagina_AAPC
 
-Joinpoint Analysis Software
+Joinpoint Analysis Software 4.9.0.0
 
 In this README file, you will find information on the system requirements, installation guide, and a demo to run the software.
 
@@ -13,6 +13,7 @@ Minimum system requirements
     Screen resolution set to 1024 by 768 pixels or greater
     .NET Framework 4.6 or higher (this will be installed with Joinpoint if necessary)
 
+    **The software has been tested on Windows 10 (version 21H1), macOS Big Sur (version 11.5.2), and Linux Ubuntu 20.04 (LTS). R version 4.1.0 and joinpoint version 4.9.0.0 were used for testing
 Installation guide
 
     1. Download the Joinpoint software from the National Cancer Institute website: https://surveillance.cancer.gov/joinpoint/download.
@@ -27,7 +28,8 @@ Demo and Instruction for use
     4. Select 'constant variance (homoscedasticity)' for the 'heteroscedastic/correlated erros option'
     5. For 'By Variables', add 'DataType'.
     6. Execute current session.
-
-Result
+    ** Typical run time on a "normal" desktop computer is less than 5 minutes.
+    
+Output
 
     1. The AAPC, the 95% CI and the p-value can be found on the 'trends' tab.
