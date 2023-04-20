@@ -1,0 +1,11 @@
+location	year	DataType	ASR
+Australia	2003	Incidence Female	0.3895872
+Australia	2004	Incidence Female	0.3811646
+Australia	2005	Incidence Female	0.4281269
+Australia	2006	Incidence Female	0.4280523
+Australia	2007	Incidence Female	0.3515119
+Australia	2008	Incidence Female	0.3622847
+Australia	2009	Incidence Female	0.3330722
+Australia	2010	Incidence Female	0.4637132
+Australia	2011	Incidence Female	0.3845093
+Australia	2012	Incidence Female	0.3537678
