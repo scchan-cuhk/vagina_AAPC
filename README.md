@@ -13,7 +13,8 @@ Minimum system requirements
     Screen resolution set to 1024 by 768 pixels or greater
     .NET Framework 4.6 or higher (this will be installed with Joinpoint if necessary)
 
-    **The software has been tested on Windows 10 (version 21H1), macOS Big Sur (version 11.5.2), and Linux Ubuntu 20.04 (LTS). R version 4.1.0 and joinpoint version 4.9.0.0 were used for testing
+    **The software has been tested on Windows 10 (version 21H1). Joinpoint version 4.9.0.0 was used for testing.
+    
 Installation guide
 
     1. Download the Joinpoint software from the National Cancer Institute website: https://surveillance.cancer.gov/joinpoint/download.
